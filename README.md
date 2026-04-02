@@ -1,71 +1,106 @@
 <div align="center">
 
-<!-- PIXEL HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7021e2&height=150&section=header&text=Welcome%20to%20Level%2022&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- 🔮 PIXEL ANIMATED HEADER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:7021e2,100:9d4edd&height=180&section=header&text=LEVEL%2022%20UNLOCKED&fontSize=40&fontAlignY=35&fontColor=00ffcc&font=Press+Start+2P&animation=twinkling&desc=ENTER%20MY%20PIXEL%20WORLD%20👾&descSize=16&descAlignY=65" width="100%"/>
+
+<!-- 🎮 NAME + TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hi+I'm+Lexar+Cabrira;Full-Stack+Developer;Game+Developer;Pixel+Artist;Building+Digital+Worlds..." />
 
 # 🕹️ Lexar Cabrira
-### 🇵🇭 Aspiring Full-Stack Developer | Game Dev | Pixel Artist
 
-<!-- SOCIAL BUTTONS (CLEAN STYLE) -->
+### 🇵🇭 Full-Stack Dev • Game Dev • Pixel Artist
+
+---
+
+<!-- 🌐 SOCIAL BUTTONS -->
+
 <div align="center">
   <a href="mailto:lexarcabrira@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://facebook.com/LexarSevilla">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/FACEBOOK-6A0DAD?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com/lexxarrss">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/lexarcabrira">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-## 📜 Quest Log: About Me
-**| Build | Explore | Create |**
+## 🎮 QUEST LOG
 
-BSIT student from the Philippines passionate about **full-stack web development**.  
-I build projects, improve my skills daily, and solve  
-real-world problems through code.
+```diff
++ NAME: Lexar Cabrira
++ CLASS: Multi-Media Developer
++ LEVEL: 22
++ LOCATION: Philippines 🇵🇭
++ STATUS: Building... 🛠️
+```
 
-> **Current Level:** 22  
-> **Class:** Multi-Media Developer  
-> **HP:** ████████████████▒ 99%  
-> **Status:** 🛠️ Building worlds and debugging reality...
+💡 BSIT student passionate about crafting **interactive systems**,
+building **full-stack apps**, and designing **pixel game assets**.
+
+> 🧠 *"Code. Create. Conquer."*
 
 ---
 
-## 🎒 Inventory: Tech Stack
+## 🧰 INVENTORY
 
-**⚔️ Combat (Programming & Logic)**  
+### ⚔️ Combat Skills
+
 <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,sqlite&theme=dark" />
 
-**🛠️ Crafting (Tools & Engines)**  
+### 🛠️ Tools & Engines
+
 <img src="https://skillicons.dev/icons?i=godot,unity,unreal,figma,ps,aseprite,blender,github,vercel&theme=dark" />
 
-**🌱 Currently Learning**  
+### 🌱 Skill Tree (Learning)
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,ts&theme=dark" />
 
 ---
 
-## 📊 Player Stats (XP)
+## 📊 PLAYER STATS
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LexarCabrira&theme=retro&hide_border=false&show_icons=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexarCabrira&theme=retro&hide_border=false&layout=compact" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=LexarCabrira&theme=midnight-purple&hide_border=true&show_icons=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexarCabrira&theme=midnight-purple&hide_border=true&layout=compact" />
+
 </div>
 
 ---
 
+## 🧬 SYSTEM STATUS
+
+```yaml
+HP: ████████████████████ 100%
+MP: ███████████████░░░░ 75%
+XP: ████████████████░░░ 85%
+```
+
+---
+
+## 🐾 COMPANION
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayccoll/Notes/master/Resources/gifs/pixel-art-cat.gif" width="60px">
-  <br>
-  <i>"Press START to continue..."</i>
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=LexarCabrira&icon=5&color=7" />
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAi/cat-space.gif" width="80px"/>
+</p>
+
+---
+
+## 🎮 FINAL MESSAGE
+
+<p align="center">
+  <b>"Press START to continue..."</b><br><br>
+  <img src="https://visitcount.itsvg.in/api?id=LexarCabrira&icon=6&color=12"/>
 </p>
 
 </div>
