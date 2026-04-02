@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PIXEL HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7021e2&height=150&section=header&text=WELCOME%20TO%20MY%20WORLD%20👾&fontSize=50&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7021e2&height=150&section=header&text=Welcome%20to%20Level%2022&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 # 🕹️ Lexar Cabrira
 ### 🇵🇭 Aspiring Full-Stack Developer | Game Dev | Pixel Artist
