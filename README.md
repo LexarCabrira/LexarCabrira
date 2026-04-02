@@ -18,3 +18,5 @@
 > Class:  Multi-Media Developer
 > HP:     ████████████████▒ 99%
 > Status: Building worlds and debugging reality...
+
+I am a passionate developer bridging the gap between code and art. Whether it's 3D modeling in Blender, crafting gameplay in Godot/Unity, or building web experiences, I treat every project like a New Game+.
