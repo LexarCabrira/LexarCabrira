@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7021e2&height=150&section=header&text=Welcome%20to%20my%20Profile!%20👾&fontSize=50&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<!-- PIXEL HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7021e2&height=150&section=header&text=WELCOME%20TO%20MY%20WORLD%20👾&fontSize=50&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
 
-# 🕹️ Aspiring Full-Stack Developer
-### 🇵🇭 From the Philippines
+# 🕹️ Lexar Cabrira
+### 🇵🇭 Aspiring Full-Stack Developer | Game Dev | Pixel Artist
 
-<!-- SOCIAL BUTTONS -->
+<!-- SOCIAL BUTTONS (CLEAN STYLE) -->
 <div align="center">
   <a href="mailto:lexarcabrira@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,37 +24,30 @@
 
 ---
 
-## ✨ About Me
+## 📜 Quest Log: About Me
 **| Build | Explore | Create |**
 
-**BSIT student from the Philippines** passionate about **full-stack web development**.  
-I build meaningful projects, continuously improve my skills, and enjoy solving  
-real-world problems through code. I gladly welcome collaborations and opportunities  
-to contribute to impactful projects.
+BSIT student from the Philippines passionate about **full-stack web development**.  
+I build projects, improve my skills daily, and solve  
+real-world problems through code.
 
-> **Current Status:** 🛠️ Building worlds and debugging reality...  
-> **HP:** ████████████████▒ 99%
-
----
-
-## 🌱 Currently Learning
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts&theme=dark" />
-</div>
-
-<br/>
-
-*Always growing, always learning* 🌸
+> **Current Level:** 22  
+> **Class:** Multi-Media Developer  
+> **HP:** ████████████████▒ 99%  
+> **Status:** 🛠️ Building worlds and debugging reality...
 
 ---
 
 ## 🎒 Inventory: Tech Stack
 
 **⚔️ Combat (Programming & Logic)**  
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,sqlite&theme=dark" />
 
 **🛠️ Crafting (Tools & Engines)**  
-<img src="https://skillicons.dev/icons?i=godot,unity,unreal,figma,ps,aseprite,blender,github,vercel" />
+<img src="https://skillicons.dev/icons?i=godot,unity,unreal,figma,ps,aseprite,blender,github,vercel&theme=dark" />
+
+**🌱 Currently Learning**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts&theme=dark" />
 
 ---
 
@@ -68,9 +61,11 @@ to contribute to impactful projects.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayccoll/Notes/master/Resources/gifs/pixel-art-cat.gif" width="80px">
+  <img src="https://raw.githubusercontent.com/Mayccoll/Notes/master/Resources/gifs/pixel-art-cat.gif" width="60px">
   <br>
   <i>"Press START to continue..."</i>
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=LexarCabrira&icon=5&color=7" />
 </p>
 
 </div>
