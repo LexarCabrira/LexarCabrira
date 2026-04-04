@@ -60,8 +60,8 @@ turning ideas into interactive solutions that solve real-world problems.
       <td><img src="https://geps.dev/progress/10?dangerColor=00f5ff&warningColor=00ffd5&successColor=27d3ff" /></td>
     </tr>
     <tr>
-      <td><i>API Architecture</i></td>
-      <td><img src="https://geps.dev/progress/80?dangerColor=00f5ff&warningColor=00ffd5&successColor=27d3ff" /></td>
+      <td><i>Node.js</i></td>
+      <td><img src="https://geps.dev/progress/0?dangerColor=00f5ff&warningColor=00ffd5&successColor=27d3ff" /></td>
     </tr>
   </table>
 </div>
