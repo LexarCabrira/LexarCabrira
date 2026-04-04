@@ -17,9 +17,9 @@
 <div align="center">
 <strong>🚀 ABOUT ME</strong>
   
-  <b>BSIT student from the Philippines with a strong passion for full-stack web development.</b><br/>
-  Focused on developing games and applications,  
-turning ideas into interactive solutions that solve real-world problems.
+<b>A BSIT student from the Philippines, guided by passion and a vision to create meaningful impact through technology.</b><br/>
+Through full-stack, I aim to build games,applications and web that solve real problems, and bring ideas to life 
+transforming imagination into experiences that people can truly feel and connect with.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
