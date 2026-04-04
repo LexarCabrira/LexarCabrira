@@ -6,7 +6,7 @@
 <br/>
 
 <!-- PIXEL CODING ANIMATION -->
-<img src="./assets/pixel-coding.gif" width="90%" style="border-radius: 10px; border: 3px solid #b388ff;" />
+<img src="./assets/cute-wallpaper.gif" width="400px" style="border-radius: 10px; border: 3px solid #b388ff;" />
 
 <br/>
 </div>
