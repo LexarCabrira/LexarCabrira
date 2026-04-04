@@ -1,26 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:04070f,100:001b3a&height=120&section=header&text=HI%20THERE!%20I'M%20LEXAR%20CABRIRA&fontSize=32&fontColor=27d3ff&font=Press+Start+2P&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=PLAYER%20STATUS&fontSize=32&fontColor=b388ff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00F5FF&center=true&vCenter=true&width=980&lines=%5BBOOT%5D+PIXEL+RETRO+GAME+PROFILE+ONLINE;%5BCLASS%5D+FULL-STACK+DEVELOPER;%5BREGION%5D+PHILIPPINES;%5BQUEST%5D+BUILD+REAL-WORLD+PROJECTS" />
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp1OWc0bm1pM2pxeGh4dzJreG9qZndpZno1Z3Y4eG9iYnR3eXo1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="86%" alt="game development assets"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=b388ff&center=true&vCenter=true&width=700&lines=Initializing+Profile...;Welcome%2C+Traveler;Name:+Lexar+Cabriera;Class:+Full-Stack+Developer;Future+Class:+Game+Developer;Side+Skill:+Pixel+Artist;Mission:+Create+Impactful+User+Experiences"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
 
-## [ 💾 PROFILE.DAT ]
 
 <div align="center">
-👨‍💻 About Me
+<strong>🚀 ABOUT ME</strong>
   
   <b>BSIT student from the Philippines with a strong passion for full-stack web development.</b><br/>
   Focused on developing games and applications,  
 turning ideas into interactive solutions that solve real-world problems.
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c3ff,100:00ffd5&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
 
 ## [ 🌳 SKILL_TREE.EXE ]
 
@@ -41,34 +38,45 @@ turning ideas into interactive solutions that solve real-world problems.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c3ff,100:00ffd5&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
 
 ## [ 📜 ACTIVE_QUESTS.LOG ]
 
 <div align="center">
-  <table>
-    <tr>
-      <td><b>QUEST</b></td>
-      <td><b>EXP STATUS</b></td>
-    </tr>
-    <tr>
-      <td><i>React</i></td>
-      <td><img src="https://geps.dev/progress/2?dangerColor=00f5ff&warningColor=00ffd5&successColor=27d3ff" /></td>
-    </tr>
-    <tr>
-      <td><i>Javascript</i></td>
-      <td><img src="https://geps.dev/progress/10?dangerColor=00f5ff&warningColor=00ffd5&successColor=27d3ff" /></td>
-    </tr>
-    <tr>
-      <td><i>Node.js</i></td>
-      <td><img src="https://geps.dev/progress/0?dangerColor=00f5ff&warningColor=00ffd5&successColor=27d3ff" /></td>
-    </tr>
-  </table>
+
+<table style="width: 90%; max-width: 900px; border: 2px solid #b388ff; border-collapse: collapse; background-color: #0a0014; color: #b388ff; font-family: 'Press Start 2P', monospace;">
+  
+  <tr>
+    <td style="border: 1px solid #b388ff; padding: 12px; width: 40%;"><b>🎯 QUEST</b></td>
+    <td style="border: 1px solid #b388ff; padding: 12px; width: 60%;"><b>⚡ EXP STATUS</b></td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #b388ff; padding: 12px;">🟥 React</td>
+    <td style="border: 1px solid #b388ff; padding: 12px;">
+      <img src="https://geps.dev/progress/2?dangerColor=b388ff&warningColor=9c6bff&successColor=6a00ff" style="width: 100%;"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #b388ff; padding: 12px;">🟨 JavaScript</td>
+    <td style="border: 1px solid #b388ff; padding: 12px;">
+      <img src="https://geps.dev/progress/10?dangerColor=b388ff&warningColor=9c6bff&successColor=6a00ff" style="width: 100%;"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #b388ff; padding: 12px;">🟪 Node.js</td>
+    <td style="border: 1px solid #b388ff; padding: 12px;">
+      <img src="https://geps.dev/progress/0?dangerColor=b388ff&warningColor=9c6bff&successColor=6a00ff" style="width: 100%;"/>
+    </td>
+  </tr>
+
+</table>
+
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c3ff,100:00ffd5&height=3&section=header"/>
-
----
 
 ## [ 📊 SYSTEM STATS ]
 
@@ -105,6 +113,6 @@ turning ideas into interactive solutions that solve real-world problems.
   <img src="https://komarev.com/ghpvc/?username=LexarCabrira&label=ARCADE%20VISITORS&color=00c3ff&style=for-the-badge" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00132e,100:04070f&height=70&section=header&text=THANKS%20FOR%20PLAYING&fontSize=14&fontColor=27d3ff&font=Press+Start+2P&animation=blink" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04070f,50:001b3a,100:04070f&height=120&section=footer" width="100%"/>
+
