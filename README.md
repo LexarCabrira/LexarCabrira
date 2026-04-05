@@ -6,20 +6,20 @@
 <br/>
 
 <!-- PIXEL CODING ANIMATION -->
-<img src="./assets/cute-wallpaper.gif" width="400px" style="border-radius: 10px; border: 3px solid #b388ff;" />
+<img src="./assets/download.gif" width="600px" style="border-radius: 10px; border: 3px solid #b388ff;" />
 
 <br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:b388ff&height=20&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
 
 <div align="center">
-<strong>🚀 ABOUT ME</strong>
-  
+
+<strong>🚀 ABOUT ME</strong><br/><br/>
+
 <b>A BSIT student from the Philippines, guided by passion and a vision to create meaningful impact through technology.</b><br/>
-Through full-stack, I aim to build games,applications and web that solve real problems, and bring ideas to life 
-transforming imagination into experiences that people can truly feel and connect with.
+Through full-stack, I aim to build games, applications, and web solutions that solve real problems and bring ideas to life transforming imagination into experiences people can truly feel and connect with.
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
@@ -43,8 +43,10 @@ transforming imagination into experiences that people can truly feel and connect
 <img src="https://img.shields.io/badge/UNITY-111111?style=for-the-badge&logo=unity&logoColor=white"/> 
 <img src="https://img.shields.io/badge/UNREAL-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ASEPRITE-7d929e?style=for-the-badge&logo=aseprite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white"/> 
 <img src="https://img.shields.io/badge/FIGMA-7038a0?style=for-the-badge&logo=figma&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PHOTOSHOP-00345c?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
+
 
 
 
@@ -108,19 +110,6 @@ transforming imagination into experiences that people can truly feel and connect
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
 
 
-## [ 📊 SYSTEM STATS ]
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LexarCabrira&theme=tokyonight&hide_border=true&show_icons=true&title_color=00f5ff&icon_color=00ffd5&text_color=ffffff&bg_color=00000000" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexarCabrira&theme=tokyonight&hide_border=true&layout=compact&title_color=00f5ff&text_color=ffffff&bg_color=00000000" height="150px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LexarCabrira&bg_color=04070f&color=00f5ff&line=00ffd5&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
-
 ## [ 🎮 GAME_LOG.TXT ]
 
 <div align="center">
@@ -135,8 +124,18 @@ transforming imagination into experiences that people can truly feel and connect
   <a href="https://github.com/LexarCabrira">
     <img src="https://img.shields.io/badge/GITHUB-030611?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=00132e" />
   </a>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-030611?style=for-the-badge&logo=pinboard&logoColor=00ffd5&labelColor=00132e&color=00c3ff" />
-  <img src="https://komarev.com/ghpvc/?username=LexarCabrira&label=ARCADE%20VISITORS&color=00c3ff&style=for-the-badge" />
+
+  <a href="https://web.facebook.com/Lexar.sevilla/">
+    <img src="https://img.shields.io/badge/FACEBOOK-030611?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=00132e" />
+  </a>
+
+  <a href="https://www.instagram.com/lexxarrss/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-030611?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=00132e" />
+  </a>
+
+  <a href="https://myaccount.google.com/">
+    <img src="https://img.shields.io/badge/GMAIL-030611?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=00132e" />
+  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
