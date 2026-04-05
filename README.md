@@ -63,14 +63,14 @@ transforming imagination into experiences that people can truly feel and connect
 <div align="center">
 
 <!-- TRUE BLINKING TEXT (No Typing Reveal) -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=500&color=00F5FF&center=true&vCenter=true&width=500&lines=%3E+UPGRADING+SKILL_TREE...;%20" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=500&color=00F5FF&center=true&vCenter=true&width=500&lines=%3E+LEARNING+NEW+SKILLS...;%20" />
 
 <br/>
 
 <!-- SKILL BADGES -->
 <img src="https://img.shields.io/badge/REACT-1b2130?style=for-the-badge&logo=react&logoColor=61dafb"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-252525?style=for-the-badge&logo=javascript&logoColor=f7df1e"/> 
-<img src="https://img.shields.io/badge/NODE.JS-215732?style=for-the-badge&logo=node.js&logoColor=8dfca8"/> 
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 </div>
 
@@ -88,18 +88,18 @@ transforming imagination into experiences that people can truly feel and connect
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/REACT-1b2130?style=flat-square&logo=react&logoColor=61dafb"/></td>
-      <td><img src="https://geps.dev/progress/5?dangerColor=00f5ff&warningColor=00ffd5&successColor=27d3ff" /></td>
-      <td><code>LVL 5</code></td>
+      <td><img src="https://img.shields.io/badge/-%20-00f5ff?style=flat-square" width="15" height="12" /><img src="https://img.shields.io/badge/-%20-333333?style=flat-square" width="285" height="12" /></td>
+      <td align="center"> <code>5%</code></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/JAVASCRIPT-252525?style=flat-square&logo=javascript&logoColor=f7df1e"/></td>
-      <td><img src="https://geps.dev/progress/10?dangerColor=00f5ff&warningColor=00ffd5&successColor=27d3ff" /></td>
-      <td><code>LVL 10</code></td>
+      <td><img src="https://img.shields.io/badge/-%20-00f5ff?style=flat-square" width="40" height="12" /><img src="https://img.shields.io/badge/-%20-333333?style=flat-square" width="260" height="12" /></td>
+      <td align="center"> <code>10%</code></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/NODE.JS-215732?style=flat-square&logo=node.js&logoColor=8dfca8"/></td>
-      <td><img src="https://geps.dev/progress/0?dangerColor=00f5ff&warningColor=00ffd5&successColor=27d3ff" /></td>
-      <td><code>LVL 0</code></td>
+      <td><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/-%20-00f5ff?style=flat-square" width="0" height="12" /><img src="https://img.shields.io/badge/-%20-333333?style=flat-square" width="300" height="12" /></td>
+      <td align="center"> <code>0%</code></td>
     </tr>
   </table>
 
@@ -121,17 +121,13 @@ transforming imagination into experiences that people can truly feel and connect
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
 
-## [ 💬 DEV_QUOTES.TXT ]
+## [ 🎮 GAME_LOG.TXT ]
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=2000&color=00F5FF&center=true&vCenter=true&width=600&lines=%3E+%22Every+bug+is+a+boss+fight.%22;%3E+%22Code.+Fail.+Retry.+Level+Up.%22;%3E+%22Grinding+skills+never+stops.%22" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c3ff,100:00ffd5&height=3&section=header"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3"/>
 
 ## [ 🌐 CONNECT.PORTAL ]
 
