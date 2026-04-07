@@ -43,7 +43,6 @@ Through full-stack, I aim to build games, applications, and web solutions that s
 <img src="https://img.shields.io/badge/UNITY-111111?style=for-the-badge&logo=unity&logoColor=white"/> 
 <img src="https://img.shields.io/badge/UNREAL-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ASEPRITE-7d929e?style=for-the-badge&logo=aseprite&logoColor=white"/> 
-<img src="https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white"/> 
 <img src="https://img.shields.io/badge/FIGMA-7038a0?style=for-the-badge&logo=figma&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PHOTOSHOP-00345c?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
 
