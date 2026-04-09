@@ -5,6 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Initializing+Profile...;Welcome%2C+Traveler;Name:+Lexar+Cabriera;Class:+Full-Stack+Developer;Future+Class:+Game+Developer;Side+Skill:+Pixel+Artist;Mission:+Create+Impactful+User+Experiences"/>
 <br/>
 
+<img src="https://img.shields.io/badge/FOCUS-PORTFOLIO%20PROJECT-9d4edd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-LEARNING-9d4edd?style=for-the-badge"/>
+</div>
+
 <!-- PIXEL CODING ANIMATION -->
 <img src="./assets/download.gif" width="600px" style="border-radius: 10px; border: 3px solid #b388ff;" />
 
@@ -72,8 +76,6 @@ Through full-stack, I aim to build games, applications, and web solutions that s
 <img src="https://img.shields.io/badge/REACT-1b2130?style=for-the-badge&logo=react&logoColor=61dafb"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-252525?style=for-the-badge&logo=javascript&logoColor=f7df1e"/> 
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
 
