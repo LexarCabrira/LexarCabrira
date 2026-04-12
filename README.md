@@ -34,33 +34,32 @@ Through full-stack, I aim to build games, applications, and web solutions that s
 <div align="center">
 
 ### ⚔️ LANGUAGES & FRAMEWORKS
-<img src="https://img.shields.io/badge/JAVASCRIPT-70%25-252525?style=for-the-badge&logo=javascript&logoColor=f7df1e"/> 
-<img src="https://img.shields.io/badge/PHP-65%25-2f335f?style=for-the-badge&logo=php&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML5-85%25-c0392b?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-80%25-1572b6?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/BOOTSTRAP-75%25-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-252525?style=for-the-badge&logo=javascript&logoColor=f7df1e"/> 
+<img src="https://img.shields.io/badge/PHP-2f335f?style=for-the-badge&logo=php&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-c0392b?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 <br/><br/>
 
 ### 🕹️ GAME DEV & DESIGN
-<img src="https://img.shields.io/badge/GODOT-50%25-2f4858?style=for-the-badge&logo=godot-engine&logoColor=white"/> 
-<img src="https://img.shields.io/badge/UNITY-40%25-111111?style=for-the-badge&logo=unity&logoColor=white"/> 
-<img src="https://img.shields.io/badge/UNREAL-20%25-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
-<img src="https://img.shields.io/badge/ASEPRITE-60%25-7d929e?style=for-the-badge&logo=aseprite&logoColor=white"/> 
-<img src="https://img.shields.io/badge/FIGMA-65%25-7038a0?style=for-the-badge&logo=figma&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PHOTOSHOP-55%25-00345c?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
+<img src="https://img.shields.io/badge/GODOT-2f4858?style=for-the-badge&logo=godot-engine&logoColor=white"/> 
+<img src="https://img.shields.io/badge/UNITY-111111?style=for-the-badge&logo=unity&logoColor=white"/> 
+<img src="https://img.shields.io/badge/UNREAL-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ASEPRITE-7d929e?style=for-the-badge&logo=aseprite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/FIGMA-7038a0?style=for-the-badge&logo=figma&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PHOTOSHOP-00345c?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff"/>
 
 <br/><br/>
 
 ### 🛠️ TOOLS & DEPLOYMENT
-<img src="https://img.shields.io/badge/MYSQL-60%25-114b5f?style=for-the-badge&logo=mysql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SQLITE-55%25-1e4b68?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-<img src="https://img.shields.io/badge/XAMPP-70%25-fb6036?style=for-the-badge&logo=xampp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/VERCEL-65%25-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
-<img src="https://img.shields.io/badge/NETLIFY-65%25-00ad9f?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-114b5f?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SQLITE-1e4b68?style=for-the-badge&logo=sqlite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/XAMPP-fb6036?style=for-the-badge&logo=xampp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NETLIFY-00ad9f?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:b388ff&height=3&section=header"/>
 
 <div align="center">
