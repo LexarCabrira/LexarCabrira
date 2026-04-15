@@ -83,25 +83,21 @@ Through full-stack, I aim to build games, applications, and web solutions that s
     <tr>
       <td align="center"><b>SKILL</b></td>
       <td align="center"><b>EXPERIENCE (EXP)</b></td>
-      <td align="center"><b>LEVEL</b></td>
     </tr>
     <!-- REACT BAR -->
     <tr>
       <td><img src="https://img.shields.io/badge/REACT-1b2130?style=flat-square&logo=react&logoColor=61dafb"/></td>
-      <td><img src="https://img.shields.io/badge/-%20-00f5ff?style=flat-square" width="15" height="12"/><img src="https://img.shields.io/badge/-%20-333333?style=flat-square" width="285" height="12"/></td>
-      <td align="center"><code>5%</code></td>
+      <td><img src="https://geps.dev/progress/5?dangerColor=00f5ff&warningColor=00f5ff&successColor=00f5ff" width="250" height="25" /></td>
     </tr>
     <!-- JAVASCRIPT BAR -->
     <tr>
       <td><img src="https://img.shields.io/badge/JAVASCRIPT-252525?style=flat-square&logo=javascript&logoColor=f7df1e"/></td>
-      <td><img src="https://img.shields.io/badge/-%20-00f5ff?style=flat-square" width="30" height="12"/><img src="https://img.shields.io/badge/-%20-333333?style=flat-square" width="270" height="12"/></td>
-      <td align="center"><code>10%</code></td>
+      <td><img src="https://geps.dev/progress/10?dangerColor=00f5ff&warningColor=00f5ff&successColor=00f5ff" width="250" height="25" /></td>
     </tr>
     <!-- TYPESCRIPT BAR -->
     <tr>
       <td><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/-%20-00f5ff?style=flat-square" width="0" height="12"/><img src="https://img.shields.io/badge/-%20-333333?style=flat-square" width="300" height="12"/></td>
-      <td align="center"><code>0%</code></td>
+      <td><img src="https://geps.dev/progress/0?dangerColor=00f5ff&warningColor=00f5ff&successColor=00f5ff" width="250" height="25" /></td>
     </tr>
   </table>
 </div>
