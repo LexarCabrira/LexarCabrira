@@ -1,5 +1,5 @@
 <div align="center">
-//
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=PLAYER%20STATUS&fontSize=32&fontColor=b388ff&animation=twinkling&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Initializing+Profile...;Welcome%2C+Traveler;Name:+Lexar+Cabriera;Class:+Full-Stack+Developer;Future+Class:+Game+Developer;Side+Skill:+Pixel+Artist;Mission:+Create+Impactful+User+Experiences"/>
